@@ -1,4 +1,4 @@
-# Счётчик тревожки (Nervous Counter)
+# Счётчик тревожности (Nervous Counter)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-iOS%2017.0%2B-blue?style=for-the-badge&logo=apple" alt="Platform iOS 17+" />
